@@ -98,11 +98,14 @@
 
 .staff {
   background-image: url("/images/staff_picks_background.jpg");
+  background-size: cover;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .staff__title {
   margin-top: 0;
-  padding-top: 20px;
+
   color: #fff;
   justify-self: center;
 }
@@ -120,7 +123,7 @@
   justify-content: space-between;
   flex-wrap: wrap;
   list-style-type: none;
-  padding-bottom: 40px;
+
   column-gap: 40px;
   row-gap: 40px;
 }
