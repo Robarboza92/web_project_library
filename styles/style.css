@@ -334,7 +334,7 @@
 .step {
   max-width: 220px;
   display: flex;
-  flex-basis: auto;
+  flex-basis: 220px;
   flex-wrap: wrap;
 }
 
