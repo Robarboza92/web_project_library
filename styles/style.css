@@ -99,13 +99,12 @@
 .staff {
   background-image: url("/images/staff_picks_background.jpg");
   background-size: cover;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 100px;
+  padding-bottom: 140px;
 }
 
 .staff__title {
   margin-top: 0;
-
   color: #fff;
   justify-self: center;
 }
